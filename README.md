@@ -12,10 +12,10 @@ This API is live [here](http://cartoonize-api.herokuapp.com/) at endpoint ```/ap
 ## Working
 
 #### Original Image
-![Original Image](https://raw.githubusercontent.com/tinshade/cartoonize-api/main/media/user-images/uploads/tinshade.jpg)
+![Original Image](https://raw.githubusercontent.com/tinshade/cartoonize-api/main/media/user_images/uploads/tinshade.jpg)
 
 #### Cartoonized Image
-![Cartoonized Image](https://raw.githubusercontent.com/tinshade/cartoonize-api/main/media/user-images/served/Abhishek.png)
+![Cartoonized Image](https://raw.githubusercontent.com/tinshade/cartoonize-api/main/media/user_images/served/Abhishek.png)
 
 
 ## Parameters
